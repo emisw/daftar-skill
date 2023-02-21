@@ -13,4 +13,12 @@
 -Administrasi struktur jaringan
 -Wide area Network
 -Bimbingan Konseling
-Dan Lain-lain
+
+++Skill Yang diperoleh daari Rucom ++
+-Mengetik Sepuluh Jari
+-Free Codecamp.org responsive web design(htnl,css,and.javascipt)
+-bootable linux
+-Visual Studio Code
+-Sololearn(intrduction to hmtl,introduction to css,introduction to JavaScript,jQuery,Coding for marketers)
+-Membuat Akun Linkdin dan menghubungkan sertifikasi sololearn
+-
